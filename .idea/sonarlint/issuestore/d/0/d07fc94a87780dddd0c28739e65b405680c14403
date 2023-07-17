@@ -1,0 +1,13 @@
+
+g	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¨¥ß–1
+W
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8¨¥ß–1
+M
+java:S3416"+Update this logger to use "Cadastro.class".(±æ ³ÿÿÿÿÿ8·¥ß–1
+X
+java:S6437"6Revoke and change this password, as it is compromised.(ì—ªÁúÿÿÿÿ8º¥ß–1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(‡äÌïüÿÿÿÿ8»¥ß–1
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(Ş®çıÿÿÿÿ8»¥ß–1
+T	java:S106'"9Replace this use of System.out or System.err by a logger.(úâª'8»¥ß–1
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(™¿ø¬8¼¥ß–1
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(¿ôáäıÿÿÿÿ8¼¥ß–1
